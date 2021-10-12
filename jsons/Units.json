@@ -1,0 +1,146 @@
+[
+//servants
+	{
+		"name": "Emyia",
+		"unitType": "Ranged",
+		"movement": 3,
+        "rangedStrength": 500,
+		"strength": 300,
+		"cost": 500,
+          "requiredResource": "Summons",
+		"uniques": ["[+25] HP when healing","No defensive terrain bonus","Ignores terrain cost","Excess Food converted to Production when under construction","Can build [Land] improvements on tiles","Heals [50] damage if it kills a unit","[+3] Visibility Range","Can move after attacking","Can move immediately once bought","May withdraw before melee ([95]%)","No movement cost to pillage","Ranged attacks may be performed over obstacles","Invisible to others","[95]% chance to intercept air attacks","Can attack submarines","May Paradrop up to [25] tiles from inside friendly territory","All tiles cost 1 movement","Can pass through impassable tiles","Unable to capture cities","Can enter ice tiles","Cannot be purchased"],
+          "promotions": ["Haka War Dance","Woodsman","Slinger Withdraw","Great Generals I","Extended Range","Amphibious"],
+		"attackSound": "metalhit"
+	},
+    {
+		"name": "Gilgamesh",
+		"unitType": "Ranged",
+		"movement": 3,
+        "rangedStrength": 700,
+		"strength": 200,
+		"cost": 500,
+          "requiredResource": "Summons",
+		"uniques": ["[+25] HP when healing","No defensive terrain bonus","Ignores terrain cost","Excess Food converted to Production when under construction","Can build [Land] improvements on tiles","Heals [50] damage if it kills a unit","[+3] Visibility Range","Can move after attacking","Can move immediately once bought","May withdraw before melee ([95]%)","No movement cost to pillage","Ranged attacks may be performed over obstacles","Invisible to others","[95]% chance to intercept air attacks","Can attack submarines","May Paradrop up to [25] tiles from inside friendly territory","All tiles cost 1 movement","Can pass through impassable tiles","Unable to capture cities","Can enter ice tiles","Cannot be purchased"],
+          "promotions": ["Haka War Dance","Woodsman","Slinger Withdraw","Great Generals I","Extended Range","Amphibious"],
+		"attackSound": "metalhit"
+	},
+    {
+		"name": "Media",
+		"unitType": "Ranged",
+		"movement": 4,
+        "rangedStrength": 450,
+		"strength": 50,
+		"cost": 500,
+          "requiredResource": "Summons",
+		"uniques": ["[+25] HP when healing","No defensive terrain bonus","Ignores terrain cost","Excess Food converted to Production when under construction","Can build [Land] improvements on tiles","Heals [50] damage if it kills a unit","[+10] Visibility Range","Can move after attacking","Can move immediately once bought","May withdraw before melee ([95]%)","No movement cost to pillage","Ranged attacks may be performed over obstacles","Invisible to others","[95]% chance to intercept air attacks","Can attack submarines","May Paradrop up to [25] tiles from inside friendly territory","All tiles cost 1 movement","Can pass through impassable tiles","Unable to capture cities","Can enter ice tiles","Cannot be purchased"],
+          "promotions": ["Haka War Dance","Woodsman","Slinger Withdraw","Great Generals I","Extended Range","Amphibious"],
+		"attackSound": "metalhit"
+	},
+    {
+		"name": "Artoria",
+		"unitType": "Melee",
+		"movement": 2,
+		"strength": 1000,
+		"cost": 500,
+          "requiredResource": "Summons",
+		"uniques": ["[+25] HP when healing","No defensive terrain bonus","Ignores terrain cost","Excess Food converted to Production when under construction","Can build [Land] improvements on tiles","Heals [50] damage if it kills a unit","[+1] Visibility Range","Can move after attacking","Can move immediately once bought","May withdraw before melee ([95]%)","No movement cost to pillage","Ranged attacks may be performed over obstacles","Invisible to others","[95]% chance to intercept air attacks","Can attack submarines","May Paradrop up to [25] tiles from inside friendly territory","All tiles cost 1 movement","Can pass through impassable tiles","Unable to capture cities","Can enter ice tiles","Cannot be purchased"],
+          "promotions": ["Haka War Dance","Woodsman","Slinger Withdraw","Great Generals I","Extended Range","Amphibious"],
+		"attackSound": "metalhit"
+	},
+    {
+		"name": "Evil Artoria",
+		"unitType": "Melee",
+		"movement": 1,
+		"strength": 1250,
+		"cost": 500,
+          "requiredResource": "Summons",
+		"uniques": ["[+25] HP when healing","No defensive terrain bonus","Ignores terrain cost","Excess Food converted to Production when under construction","Can build [Land] improvements on tiles","Heals [50] damage if it kills a unit","[+1] Visibility Range","Can move after attacking","Can move immediately once bought","May withdraw before melee ([95]%)","No movement cost to pillage","Ranged attacks may be performed over obstacles","Invisible to others","[95]% chance to intercept air attacks","Can attack submarines","May Paradrop up to [25] tiles from inside friendly territory","All tiles cost 1 movement","Can pass through impassable tiles","Unable to capture cities","Can enter ice tiles","Cannot be purchased"],
+          "promotions": ["Haka War Dance","Woodsman","Slinger Withdraw","Great Generals I","Extended Range","Amphibious"],
+		"attackSound": "metalhit"
+	},
+     {
+		"name": "Herc",
+		"unitType": "Melee",
+		"movement": 3,
+		"strength": 350,
+		"cost": 500,
+          "requiredResource": "Summons",
+		"uniques": ["[+25] HP when healing","No defensive terrain bonus","Ignores terrain cost","Excess Food converted to Production when under construction","Can build [Land] improvements on tiles","Heals [50] damage if it kills a unit","[+1] Visibility Range","Can move after attacking","Can move immediately once bought","May withdraw before melee ([95]%)","No movement cost to pillage","Ranged attacks may be performed over obstacles","Invisible to others","[95]% chance to intercept air attacks","Can attack submarines","May Paradrop up to [25] tiles from inside friendly territory","All tiles cost 1 movement","Can pass through impassable tiles","Unable to capture cities","Can enter ice tiles","Cannot be purchased"],
+          "promotions": ["Haka War Dance","Woodsman","Slinger Withdraw","Great Generals I","Extended Range","Amphibious"],
+		"attackSound": "metalhit"
+	},
+    {
+		"name": "Cu",
+		"unitType": "Melee",
+		"movement": 2,
+		"strength": 650,
+		"cost": 500,
+          "requiredResource": "Summons",
+		"uniques": ["[+25] HP when healing","No defensive terrain bonus","Ignores terrain cost","Excess Food converted to Production when under construction","Can build [Land] improvements on tiles","Heals [50] damage if it kills a unit","[+1] Visibility Range","Can move after attacking","Can move immediately once bought","May withdraw before melee ([95]%)","No movement cost to pillage","Ranged attacks may be performed over obstacles","Invisible to others","[95]% chance to intercept air attacks","Can attack submarines","May Paradrop up to [25] tiles from inside friendly territory","All tiles cost 1 movement","Can pass through impassable tiles","Unable to capture cities","Can enter ice tiles","Cannot be purchased"],
+          "promotions": ["Haka War Dance","Woodsman","Slinger Withdraw","Great Generals I","Extended Range","Amphibious"],
+		"attackSound": "metalhit"
+	},
+{
+		"name": "Medusa",
+		"unitType": "Melee",
+		"movement": 10,
+		"strength": 150,
+		"cost": 500,
+          "requiredResource": "Summons",
+		"uniques": ["[+25] HP when healing","No defensive terrain bonus","Ignores terrain cost","Excess Food converted to Production when under construction","Can build [Land] improvements on tiles","Heals [50] damage if it kills a unit","[+1] Visibility Range","Can move after attacking","Can move immediately once bought","May withdraw before melee ([95]%)","No movement cost to pillage","Ranged attacks may be performed over obstacles","Invisible to others","[95]% chance to intercept air attacks","Can attack submarines","May Paradrop up to [25] tiles from inside friendly territory","All tiles cost 1 movement","Can pass through impassable tiles","Unable to capture cities","Can enter ice tiles","Cannot be purchased"],
+          "promotions": ["Haka War Dance","Woodsman","Slinger Withdraw","Great Generals I","Extended Range","Amphibious"],
+		"attackSound": "metalhit"
+	},
+    {
+		"name": "Hassan",
+		"unitType": "Melee",
+		"movement": 2,
+		"strength": 350,
+		"cost": 500,
+          "requiredResource": "Summons",
+		"uniques": ["[+25] HP when healing","No defensive terrain bonus","Ignores terrain cost","Excess Food converted to Production when under construction","Can build [Land] improvements on tiles","Heals [50] damage if it kills a unit","[+1] Visibility Range","Can move after attacking","Can move immediately once bought","May withdraw before melee ([95]%)","No movement cost to pillage","Ranged attacks may be performed over obstacles","Invisible to others","[95]% chance to intercept air attacks","Can attack submarines","May Paradrop up to [25] tiles from inside friendly territory","All tiles cost 1 movement","Can pass through impassable tiles","Unable to capture cities","Can enter ice tiles","Cannot be purchased"],
+          "promotions": ["Haka War Dance","Woodsman","Slinger Withdraw","Great Generals I","Extended Range","Amphibious"],
+		"attackSound": "metalhit"
+	},
+{
+		"name": "Sasuki",
+		"unitType": "Melee",
+		"movement": 1,
+		"strength": 950,
+		"cost": 500,
+          "requiredResource": "Summons",
+		"uniques": ["[+25] HP when healing","No defensive terrain bonus","Ignores terrain cost","Excess Food converted to Production when under construction","Can build [Land] improvements on tiles","Heals [50] damage if it kills a unit","[+1] Visibility Range","Can move after attacking","Can move immediately once bought","May withdraw before melee ([95]%)","No movement cost to pillage","Ranged attacks may be performed over obstacles","Invisible to others","[95]% chance to intercept air attacks","Can attack submarines","May Paradrop up to [25] tiles from inside friendly territory","All tiles cost 1 movement","Can pass through impassable tiles","Unable to capture cities","Can enter ice tiles","Cannot be purchased"],
+          "promotions": ["Haka War Dance","Woodsman","Slinger Withdraw","Great Generals I","Extended Range","Amphibious"],
+		"attackSound": "metalhit"
+	},
+//civ uniquie units
+{
+		"name": "Classical Demon Slayer",
+		"unitType": "Sword",
+		"replaces": "Spearman",
+		"uniqueTo": "The Demon Hunters",
+		"movement": 3,
+		"strength": 15,
+		"cost": 25,
+        "requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+          "promotions": ["Great Generals I"],
+          "uniques": ["+[75]% Strength vs [Mounted]","[+10] HP when healing"],
+		"attackSound": "metalhit"
+	},
+    {
+		"name": "Medievil Demon Slayer",
+		"unitType": "Sword",
+		"replaces": "Lancer",
+		"uniqueTo": "The Demon Hunters",
+		"movement": 3,
+		"strength": 20,
+		"cost": 35,
+		"requiredTech": "Civil Service",
+		"uniques": ["+[75]% Strength vs [Mounted]", "[+15] HP when healing"],
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"attackSound": "metalhit"
+	},
+]
