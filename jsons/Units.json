@@ -8,7 +8,7 @@
 		"strength": 300,
 		"cost": 500,
           "requiredResource": "Summons",
-		"uniques": ["[+25] HP when healing","No defensive terrain bonus","Ignores terrain cost","Excess Food converted to Production when under construction","Can build [Land] improvements on tiles","Heals [50] damage if it kills a unit","[+3] Visibility Range","Can move after attacking","Can move immediately once bought","May withdraw before melee ([95]%)","No movement cost to pillage","Ranged attacks may be performed over obstacles","Invisible to others","[95]% chance to intercept air attacks","Can attack submarines","May Paradrop up to [25] tiles from inside friendly territory","All tiles cost 1 movement","Can pass through impassable tiles","Unable to capture cities","Can enter ice tiles","Cannot be purchased"],
+		"uniques": ["[+25] HP when healing","No defensive terrain bonus","Ignores terrain cost","Excess Food converted to Production when under construction","Can build [Land] improvements on tiles","Heals [50] damage if it kills a unit","[+3] Sight","Can move after attacking","Can move immediately once bought","May withdraw before melee ([95]%)","No movement cost to pillage","Ranged attacks may be performed over obstacles","Invisible to others","[95]% chance to intercept air attacks","Can attack submarines","May Paradrop up to [25] tiles from inside friendly territory","All tiles cost 1 movement","Can pass through impassable tiles","Unable to capture cities","Can enter ice tiles","Cannot be purchased"],
           "promotions": ["Haka War Dance","Woodsman","Slinger Withdraw","Great Generals I","Extended Range","Amphibious"],
 		"attackSound": "metalhit"
 	},
@@ -20,7 +20,7 @@
 		"strength": 200,
 		"cost": 500,
           "requiredResource": "Summons",
-		"uniques": ["[+25] HP when healing","No defensive terrain bonus","Ignores terrain cost","Excess Food converted to Production when under construction","Can build [Land] improvements on tiles","Heals [50] damage if it kills a unit","[+3] Visibility Range","Can move after attacking","Can move immediately once bought","May withdraw before melee ([95]%)","No movement cost to pillage","Ranged attacks may be performed over obstacles","Invisible to others","[95]% chance to intercept air attacks","Can attack submarines","May Paradrop up to [25] tiles from inside friendly territory","All tiles cost 1 movement","Can pass through impassable tiles","Unable to capture cities","Can enter ice tiles","Cannot be purchased"],
+		"uniques": ["[+25] HP when healing","No defensive terrain bonus","Ignores terrain cost","Excess Food converted to Production when under construction","Can build [Land] improvements on tiles","Heals [50] damage if it kills a unit","[+3] Sight","Can move after attacking","Can move immediately once bought","May withdraw before melee ([95]%)","No movement cost to pillage","Ranged attacks may be performed over obstacles","Invisible to others","[95]% chance to intercept air attacks","Can attack submarines","May Paradrop up to [25] tiles from inside friendly territory","All tiles cost 1 movement","Can pass through impassable tiles","Unable to capture cities","Can enter ice tiles","Cannot be purchased"],
           "promotions": ["Haka War Dance","Woodsman","Slinger Withdraw","Great Generals I","Extended Range","Amphibious"],
 		"attackSound": "metalhit"
 	},
@@ -32,7 +32,7 @@
 		"strength": 50,
 		"cost": 500,
           "requiredResource": "Summons",
-		"uniques": ["[+25] HP when healing","No defensive terrain bonus","Ignores terrain cost","Excess Food converted to Production when under construction","Can build [Land] improvements on tiles","Heals [50] damage if it kills a unit","[+10] Visibility Range","Can move after attacking","Can move immediately once bought","May withdraw before melee ([95]%)","No movement cost to pillage","Ranged attacks may be performed over obstacles","Invisible to others","[95]% chance to intercept air attacks","Can attack submarines","May Paradrop up to [25] tiles from inside friendly territory","All tiles cost 1 movement","Can pass through impassable tiles","Unable to capture cities","Can enter ice tiles","Cannot be purchased"],
+		"uniques": ["[+25] HP when healing","No defensive terrain bonus","Ignores terrain cost","Excess Food converted to Production when under construction","Can build [Land] improvements on tiles","Heals [50] damage if it kills a unit","[+10] Sight","Can move after attacking","Can move immediately once bought","May withdraw before melee ([95]%)","No movement cost to pillage","Ranged attacks may be performed over obstacles","Invisible to others","[95]% chance to intercept air attacks","Can attack submarines","May Paradrop up to [25] tiles from inside friendly territory","All tiles cost 1 movement","Can pass through impassable tiles","Unable to capture cities","Can enter ice tiles","Cannot be purchased"],
           "promotions": ["Haka War Dance","Woodsman","Slinger Withdraw","Great Generals I","Extended Range","Amphibious"],
 		"attackSound": "metalhit"
 	},
@@ -43,7 +43,7 @@
 		"strength": 1000,
 		"cost": 500,
           "requiredResource": "Summons",
-		"uniques": ["[+25] HP when healing","No defensive terrain bonus","Ignores terrain cost","Excess Food converted to Production when under construction","Can build [Land] improvements on tiles","Heals [50] damage if it kills a unit","[+1] Visibility Range","Can move after attacking","Can move immediately once bought","May withdraw before melee ([95]%)","No movement cost to pillage","Ranged attacks may be performed over obstacles","Invisible to others","[95]% chance to intercept air attacks","Can attack submarines","May Paradrop up to [25] tiles from inside friendly territory","All tiles cost 1 movement","Can pass through impassable tiles","Unable to capture cities","Can enter ice tiles","Cannot be purchased"],
+		"uniques": ["[+25] HP when healing","No defensive terrain bonus","Ignores terrain cost","Excess Food converted to Production when under construction","Can build [Land] improvements on tiles","Heals [50] damage if it kills a unit","[+1] Sight","Can move after attacking","Can move immediately once bought","May withdraw before melee ([95]%)","No movement cost to pillage","Ranged attacks may be performed over obstacles","Invisible to others","[95]% chance to intercept air attacks","Can attack submarines","May Paradrop up to [25] tiles from inside friendly territory","All tiles cost 1 movement","Can pass through impassable tiles","Unable to capture cities","Can enter ice tiles","Cannot be purchased"],
           "promotions": ["Haka War Dance","Woodsman","Slinger Withdraw","Great Generals I","Extended Range","Amphibious"],
 		"attackSound": "metalhit"
 	},
@@ -54,7 +54,7 @@
 		"strength": 1250,
 		"cost": 500,
           "requiredResource": "Summons",
-		"uniques": ["[+25] HP when healing","No defensive terrain bonus","Ignores terrain cost","Excess Food converted to Production when under construction","Can build [Land] improvements on tiles","Heals [50] damage if it kills a unit","[+1] Visibility Range","Can move after attacking","Can move immediately once bought","May withdraw before melee ([95]%)","No movement cost to pillage","Ranged attacks may be performed over obstacles","Invisible to others","[95]% chance to intercept air attacks","Can attack submarines","May Paradrop up to [25] tiles from inside friendly territory","All tiles cost 1 movement","Can pass through impassable tiles","Unable to capture cities","Can enter ice tiles","Cannot be purchased"],
+		"uniques": ["[+25] HP when healing","No defensive terrain bonus","Ignores terrain cost","Excess Food converted to Production when under construction","Can build [Land] improvements on tiles","Heals [50] damage if it kills a unit","[+1] Sight","Can move after attacking","Can move immediately once bought","May withdraw before melee ([95]%)","No movement cost to pillage","Ranged attacks may be performed over obstacles","Invisible to others","[95]% chance to intercept air attacks","Can attack submarines","May Paradrop up to [25] tiles from inside friendly territory","All tiles cost 1 movement","Can pass through impassable tiles","Unable to capture cities","Can enter ice tiles","Cannot be purchased"],
           "promotions": ["Haka War Dance","Woodsman","Slinger Withdraw","Great Generals I","Extended Range","Amphibious"],
 		"attackSound": "metalhit"
 	},
@@ -65,7 +65,7 @@
 		"strength": 350,
 		"cost": 500,
           "requiredResource": "Summons",
-		"uniques": ["[+25] HP when healing","No defensive terrain bonus","Ignores terrain cost","Excess Food converted to Production when under construction","Can build [Land] improvements on tiles","Heals [50] damage if it kills a unit","[+1] Visibility Range","Can move after attacking","Can move immediately once bought","May withdraw before melee ([95]%)","No movement cost to pillage","Ranged attacks may be performed over obstacles","Invisible to others","[95]% chance to intercept air attacks","Can attack submarines","May Paradrop up to [25] tiles from inside friendly territory","All tiles cost 1 movement","Can pass through impassable tiles","Unable to capture cities","Can enter ice tiles","Cannot be purchased"],
+		"uniques": ["[+25] HP when healing","No defensive terrain bonus","Ignores terrain cost","Excess Food converted to Production when under construction","Can build [Land] improvements on tiles","Heals [50] damage if it kills a unit","[+1] Sight","Can move after attacking","Can move immediately once bought","May withdraw before melee ([95]%)","No movement cost to pillage","Ranged attacks may be performed over obstacles","Invisible to others","[95]% chance to intercept air attacks","Can attack submarines","May Paradrop up to [25] tiles from inside friendly territory","All tiles cost 1 movement","Can pass through impassable tiles","Unable to capture cities","Can enter ice tiles","Cannot be purchased"],
           "promotions": ["Haka War Dance","Woodsman","Slinger Withdraw","Great Generals I","Extended Range","Amphibious"],
 		"attackSound": "metalhit"
 	},
@@ -76,7 +76,7 @@
 		"strength": 650,
 		"cost": 500,
           "requiredResource": "Summons",
-		"uniques": ["[+25] HP when healing","No defensive terrain bonus","Ignores terrain cost","Excess Food converted to Production when under construction","Can build [Land] improvements on tiles","Heals [50] damage if it kills a unit","[+1] Visibility Range","Can move after attacking","Can move immediately once bought","May withdraw before melee ([95]%)","No movement cost to pillage","Ranged attacks may be performed over obstacles","Invisible to others","[95]% chance to intercept air attacks","Can attack submarines","May Paradrop up to [25] tiles from inside friendly territory","All tiles cost 1 movement","Can pass through impassable tiles","Unable to capture cities","Can enter ice tiles","Cannot be purchased"],
+		"uniques": ["[+25] HP when healing","No defensive terrain bonus","Ignores terrain cost","Excess Food converted to Production when under construction","Can build [Land] improvements on tiles","Heals [50] damage if it kills a unit","[+1] Sight","Can move after attacking","Can move immediately once bought","May withdraw before melee ([95]%)","No movement cost to pillage","Ranged attacks may be performed over obstacles","Invisible to others","[95]% chance to intercept air attacks","Can attack submarines","May Paradrop up to [25] tiles from inside friendly territory","All tiles cost 1 movement","Can pass through impassable tiles","Unable to capture cities","Can enter ice tiles","Cannot be purchased"],
           "promotions": ["Haka War Dance","Woodsman","Slinger Withdraw","Great Generals I","Extended Range","Amphibious"],
 		"attackSound": "metalhit"
 	},
@@ -87,7 +87,7 @@
 		"strength": 150,
 		"cost": 500,
           "requiredResource": "Summons",
-		"uniques": ["[+25] HP when healing","No defensive terrain bonus","Ignores terrain cost","Excess Food converted to Production when under construction","Can build [Land] improvements on tiles","Heals [50] damage if it kills a unit","[+1] Visibility Range","Can move after attacking","Can move immediately once bought","May withdraw before melee ([95]%)","No movement cost to pillage","Ranged attacks may be performed over obstacles","Invisible to others","[95]% chance to intercept air attacks","Can attack submarines","May Paradrop up to [25] tiles from inside friendly territory","All tiles cost 1 movement","Can pass through impassable tiles","Unable to capture cities","Can enter ice tiles","Cannot be purchased"],
+		"uniques": ["[+25] HP when healing","No defensive terrain bonus","Ignores terrain cost","Excess Food converted to Production when under construction","Can build [Land] improvements on tiles","Heals [50] damage if it kills a unit","[+1] Sight","Can move after attacking","Can move immediately once bought","May withdraw before melee ([95]%)","No movement cost to pillage","Ranged attacks may be performed over obstacles","Invisible to others","[95]% chance to intercept air attacks","Can attack submarines","May Paradrop up to [25] tiles from inside friendly territory","All tiles cost 1 movement","Can pass through impassable tiles","Unable to capture cities","Can enter ice tiles","Cannot be purchased"],
           "promotions": ["Haka War Dance","Woodsman","Slinger Withdraw","Great Generals I","Extended Range","Amphibious"],
 		"attackSound": "metalhit"
 	},
@@ -98,7 +98,7 @@
 		"strength": 350,
 		"cost": 500,
           "requiredResource": "Summons",
-		"uniques": ["[+25] HP when healing","No defensive terrain bonus","Ignores terrain cost","Excess Food converted to Production when under construction","Can build [Land] improvements on tiles","Heals [50] damage if it kills a unit","[+1] Visibility Range","Can move after attacking","Can move immediately once bought","May withdraw before melee ([95]%)","No movement cost to pillage","Ranged attacks may be performed over obstacles","Invisible to others","[95]% chance to intercept air attacks","Can attack submarines","May Paradrop up to [25] tiles from inside friendly territory","All tiles cost 1 movement","Can pass through impassable tiles","Unable to capture cities","Can enter ice tiles","Cannot be purchased"],
+		"uniques": ["[+25] HP when healing","No defensive terrain bonus","Ignores terrain cost","Excess Food converted to Production when under construction","Can build [Land] improvements on tiles","Heals [50] damage if it kills a unit","[+1] Sight","Can move after attacking","Can move immediately once bought","May withdraw before melee ([95]%)","No movement cost to pillage","Ranged attacks may be performed over obstacles","Invisible to others","[95]% chance to intercept air attacks","Can attack submarines","May Paradrop up to [25] tiles from inside friendly territory","All tiles cost 1 movement","Can pass through impassable tiles","Unable to capture cities","Can enter ice tiles","Cannot be purchased"],
           "promotions": ["Haka War Dance","Woodsman","Slinger Withdraw","Great Generals I","Extended Range","Amphibious"],
 		"attackSound": "metalhit"
 	},
@@ -109,7 +109,7 @@
 		"strength": 950,
 		"cost": 500,
           "requiredResource": "Summons",
-		"uniques": ["[+25] HP when healing","No defensive terrain bonus","Ignores terrain cost","Excess Food converted to Production when under construction","Can build [Land] improvements on tiles","Heals [50] damage if it kills a unit","[+1] Visibility Range","Can move after attacking","Can move immediately once bought","May withdraw before melee ([95]%)","No movement cost to pillage","Ranged attacks may be performed over obstacles","Invisible to others","[95]% chance to intercept air attacks","Can attack submarines","May Paradrop up to [25] tiles from inside friendly territory","All tiles cost 1 movement","Can pass through impassable tiles","Unable to capture cities","Can enter ice tiles","Cannot be purchased"],
+		"uniques": ["[+25] HP when healing","No defensive terrain bonus","Ignores terrain cost","Excess Food converted to Production when under construction","Can build [Land] improvements on tiles","Heals [50] damage if it kills a unit","[+1] Sight","Can move after attacking","Can move immediately once bought","May withdraw before melee ([95]%)","No movement cost to pillage","Ranged attacks may be performed over obstacles","Invisible to others","[95]% chance to intercept air attacks","Can attack submarines","May Paradrop up to [25] tiles from inside friendly territory","All tiles cost 1 movement","Can pass through impassable tiles","Unable to capture cities","Can enter ice tiles","Cannot be purchased"],
           "promotions": ["Haka War Dance","Woodsman","Slinger Withdraw","Great Generals I","Extended Range","Amphibious"],
 		"attackSound": "metalhit"
 	},
@@ -126,7 +126,7 @@
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
           "promotions": ["Great Generals I"],
-          "uniques": ["+[75]% Strength vs [Mounted]","[+10] HP when healing"],
+          "uniques": ["+[75]% Strength <vs [Mounted] units>","[+10] HP when healing"],
 		"attackSound": "metalhit"
 	},
     {
@@ -138,7 +138,7 @@
 		"strength": 20,
 		"cost": 35,
 		"requiredTech": "Civil Service",
-		"uniques": ["+[75]% Strength vs [Mounted]", "[+15] HP when healing"],
+		"uniques": ["+[75]% Strength <vs [Mounted] units>", "[+15] HP when healing"],
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
 		"attackSound": "metalhit"
