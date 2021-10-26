@@ -126,7 +126,7 @@
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
           "promotions": ["Great Generals I"],
-          "uniques": ["+[75]% Strength","[+10] HP when healing"],
+          "uniques": ["[75]% Strength","[+10] HP when healing"],
 		"attackSound": "metalhit"
 	},
     {
@@ -138,7 +138,7 @@
 		"strength": 20,
 		"cost": 35,
 		"requiredTech": "Civil Service",
-		"uniques": ["+[75]% Strength", "[+15] HP when healing"],
+		"uniques": ["[75]% Strength", "[+15] HP when healing"],
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
 		"attackSound": "metalhit"
