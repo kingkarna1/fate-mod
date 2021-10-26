@@ -126,7 +126,7 @@
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
           "promotions": ["Great Generals I"],
-          "uniques": ["+[75]% Strength <vs [Mounted] units>","[+10] HP when healing"],
+          "uniques": ["+[75]% Strength","[+10] HP when healing"],
 		"attackSound": "metalhit"
 	},
     {
