@@ -27,7 +27,7 @@
 		"outerColor": [0,12,255],
 		"innerColor": [255,0,0], 
 		"uniqueName": "Hunter sociaty",
-		"uniques": ["Receive free [Great General] when you discover [Chilvary]", "Receive free [Great General] when you discover [Steel]", "Receive free [Great General] when you discover [Gunpowder]", "[Great General] is earned [45]% faster", "[+45]% Strength for cities", "[+1 Food, +1 Gold] from every [Camp]"],
+		"uniques": ["Receive free [Great General] when you discover [Chivalry]", "Receive free [Great General] when you discover [Steel]", "Receive free [Great General] when you discover [Gunpowder]", "[Great General] is earned [45]% faster", "[+45]% Strength for cities", "[+1 Food, +1 Gold] from every [Camp]"],
 	},
 //city states
 {
