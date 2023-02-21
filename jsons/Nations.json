@@ -8,7 +8,7 @@
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "You fiend! History shall remember this!",
-		"outerColor": [0, 0, 0],
+		"outerColor": [1, 1, 1],
 		"innerColor": [185,132,66],
 		"cities": ["Nanaya district","Fujou district","Ryougi district","Asakami district","Asagami district"],
 		"startIntroPart1": "The Demon Hunter Organization (退魔組織, Taima Soshiki?) is an important element of the Nasuverse within the stories of Tsukihime, Kara no Kyoukai, and Kagetsu Tohya. Though it is not often referred to directly, it is related to many of the core characters of those stories. The Organization is made up of four families, all of whom have a psychic ability. The Organization's main opponent are the Mixed-Blood descendants from the Oni Kind, which partially included the Tohno Family. However, even some members of the Organization are known to have inhuman blood coursing through their veins.",
